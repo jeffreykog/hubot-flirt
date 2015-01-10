@@ -1,0 +1,26 @@
+{
+  "name": "hubot-flirt",
+  "version": "1.0.0",
+  "description": "Are you bad at flirting? Let hubot do it for you!",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jk-5/hubot-flirt.git"
+  },
+  "keywords": [
+    "hubot",
+    "hubot-scripts",
+    "flirt"
+  ],
+  "author": "jk-5",
+  "contributors": [
+    {
+      "name": "reening"
+    }
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jk-5/hubot-flirt/issues"
+  },
+  "homepage": "https://github.com/jk-5/hubot-flirt"
+}
